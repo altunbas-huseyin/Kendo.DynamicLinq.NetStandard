@@ -83,7 +83,7 @@ namespace Kendo.DynamicLinq
 				var filters = filter.All();
 
 				// Get all filter values as array (needed by the Where method of Dynamic Linq)
-				var values = filters.Select(f => f.Value).ToArray();
+				var values = filters.Select(f => f.value).ToArray();
 
 				// Create a predicate expression e.g. Field1 = @0 And Field2 > @1
 				string predicate = filter.ToExpression(filters);

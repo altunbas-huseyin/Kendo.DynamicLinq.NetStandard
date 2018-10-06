@@ -27,7 +27,7 @@ namespace Kendo.DynamicLinq
         /// Gets or sets the filtering value. Set to <c>null</c> if the <c>Filters</c> property is set.
         /// </summary>
         [DataMember(Name = "value")]
-        public object Value { get; set; }
+        public object value { get; set; }
 
         /// <summary>
         /// Gets or sets the filtering logic. Can be set to "or" or "and". Set to <c>null</c> unless <c>Filters</c> is set.
@@ -102,7 +102,7 @@ namespace Kendo.DynamicLinq
 
             string comparison = operators[Operator];
 
-            if (this.Value.GetType().Equals(typeof(Guid)))
+            if (this.value.GetType().Equals(typeof(Guid)))
             {
                 return String.Format("{0}.Equals(@{1})", Field, index);
             }

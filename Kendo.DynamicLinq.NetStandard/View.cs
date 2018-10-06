@@ -28,13 +28,13 @@ namespace Kendo.DynamicLinq
 
         public Filter FieldTypeCheck(Filter filter)
         {
-            if (filter.Value == null)
+            if (filter.value == null)
             { return filter; }
 
             Guid _guidResult;
-            if (Guid.TryParse(filter.Value.ToString(), out _guidResult))
+            if (Guid.TryParse(filter.value.ToString(), out _guidResult))
             {
-                filter.Value = _guidResult;
+                filter.value = _guidResult;
             }
             return filter;
         }
