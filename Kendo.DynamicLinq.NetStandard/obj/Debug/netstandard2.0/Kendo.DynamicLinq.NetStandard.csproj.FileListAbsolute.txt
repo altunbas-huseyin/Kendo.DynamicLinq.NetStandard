@@ -7,3 +7,10 @@ C:\Users\haltunbas\Documents\GitHub\Kendo.DynamicLinq.NetStandard\Kendo.DynamicL
 C:\Users\haltunbas\Documents\GitHub\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\obj\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.dll
 C:\Users\haltunbas\Documents\GitHub\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\obj\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.pdb
 C:\Users\haltunbas\Documents\GitHub\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\obj\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.csprojResolveAssemblyReference.cache
+D:\Projeler\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\bin\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.deps.json
+D:\Projeler\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\bin\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.dll
+D:\Projeler\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\bin\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.pdb
+D:\Projeler\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\obj\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.AssemblyInfoInputs.cache
+D:\Projeler\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\obj\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.AssemblyInfo.cs
+D:\Projeler\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\obj\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.dll
+D:\Projeler\Kendo.DynamicLinq.NetStandard\Kendo.DynamicLinq.NetStandard\obj\Debug\netstandard2.0\Kendo.DynamicLinq.NetStandard.pdb

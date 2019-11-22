@@ -15,7 +15,7 @@ namespace Kendo.DynamicLinq
         /// <summary>
         /// Filter.Value alanında guid değerler strint Type olarak gözükebilir, bu fonksiyon Guid ama string alan FieldType'ları Guid Type olarak günceller.  
         /// </summary>
-        public void FieldTypeCheckAll()
+        public Filter FieldTypeCheckAll(Filter Filter)
         {
             List<Filter> _filters = Filter.Filters.ToList();
             for (int i = 0; i < _filters.Count; i++)
@@ -24,6 +24,7 @@ namespace Kendo.DynamicLinq
             }
             Filter.Filters = (IEnumerable<Filter>)_filters;
             Filter = FieldTypeCheck(Filter);
+            return Filter;
         }
 
         public Filter FieldTypeCheck(Filter filter)
